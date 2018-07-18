@@ -16,7 +16,7 @@ In order to not repeat ourselves, we can create a single file, `layout.erb`, tha
 Below is the HTML for a website that has a header and links to JavaScript files.
 
 ```html
-<!doctype html>
+<!doctype html> 
 <html>
   <head>
     <title>Cats</title>
